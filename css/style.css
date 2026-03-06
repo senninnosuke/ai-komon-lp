@@ -988,9 +988,10 @@ img {
 }
 
 .plan-notes p {
-  font-size: 0.82rem;
-  color: var(--text-muted);
+  font-size: 1rem;
+  color: var(--text-body);
   margin-bottom: 8px;
+  font-weight: 500;
 }
 
 .monitor-conditions {
